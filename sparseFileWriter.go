@@ -1,4 +1,4 @@
-package rio
+package sparsed
 
 import (
 	"io"
