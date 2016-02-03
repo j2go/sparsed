@@ -1,2 +1,2 @@
-# rio
-sparse file aware IO utils
+# sparsed
+sparse file aware IO utils for Golang
